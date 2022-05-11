@@ -1,6 +1,5 @@
-# Campus_Placement_Prediction
-
 # Objective 🎯
+The goal of this project is to analyse the campus placement prediction, based on a combination of features that describes whether he/she may get placed in companies.
 
 
 Github - https://github.com/venkatesh-hegade/Campus_Placement_Prediction

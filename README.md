@@ -1,5 +1,8 @@
 # Campus_Placement_Prediction
 
+# Objective 🎯
+
+
 Github - https://github.com/venkatesh-hegade/Campus_Placement_Prediction
 
 Heroku -  https://student-placement-prediction12.herokuapp.com/

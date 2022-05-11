@@ -24,9 +24,9 @@ Python
 Jupyter Notebook, MS Excel, visual studio code
 
 # Screenshots
-![Screenshot (14)](https://user-images.githubusercontent.com/71791448/167868425-34c8083f-6114-457f-a7e2-825d50c98dd4.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/71791448/167868437-e915d074-eca4-47ab-9048-82ff064b1e57.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/71791448/167868439-7b14fb20-383f-466b-921a-d486870f7f2b.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/71791448/167868425-34c8083f-6114-457f-a7e2-825d50c98dd4.png)
 
 
 # Youtube Video 🎬
